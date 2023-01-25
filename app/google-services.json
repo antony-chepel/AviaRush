@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53658607764",
+    "project_id": "time-of-rush",
+    "storage_bucket": "time-of-rush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53658607764:android:e43b6ef5290b68abfd1481",
+        "android_client_info": {
+          "package_name": "com.ferrero.appl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53658607764-1mg373rp8oif8oqbk7julth9407n1nul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdTGoW5F9la48jqwT9ZM_jsVdp_jWl1xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53658607764-1mg373rp8oif8oqbk7julth9407n1nul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
